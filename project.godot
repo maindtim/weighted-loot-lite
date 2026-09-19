@@ -1,0 +1,10 @@
+﻿; Engine configuration file.
+; Minimal project for headless testing of the weighted loot addon.
+
+config_version=5
+
+[application]
+
+config/name="Weighted Loot Lite"
+config/features=PackedStringArray("4.7", "GL Compatibility")
+config/icon=""
