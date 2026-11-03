@@ -60,6 +60,8 @@ comes from that list, not from guessing.
 
 - [Idle Number Kit Lite](https://github.com/maindtim/idle-number-kit-lite) (free): number formatting for idle games.
 - [Idle Economy Kit on itch.io, $4.99](https://cesarlars.itch.io/idle-economy-kit): generators, upgrades, offline progress and saves for idle games.
+- [Loot Drop Kit on itch.io, $4.99](https://cesarlars.itch.io/loot-drop-kit): the full version of this addon, for Godot 4.
+
 ## License
 
 MIT — see [LICENSE](LICENSE). Use it in anything, commercial or not.
